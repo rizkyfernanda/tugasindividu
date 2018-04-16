@@ -1,0 +1,67 @@
+body {
+	text-align: center;
+	font-family: "lato";
+	font-size: 135%;
+	
+}
+header {
+    background-image: url('https://wallpapercave.com/wp/QHHd51c.jpg');
+    color: white;
+    padding: 30px;
+    text-shadow: 2px 2px 4px #000000;
+}
+#new {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+div.explainer {
+    background-image: url('http://tapety.joe.pl/tapeta/zrobione-przez-czlowieka/ksiazki/cieniutkie-ksiazki-na-regale.jpg');
+    padding: 40px;
+    text-shadow: 2px 2px 4px #000000;
+}
+div.thetable {
+    background-image: url('http://www.teamip.com/wp-content/uploads/2015/11/Dark-Grey-Background-High-Resolution-Photo-isk6e-Free.png');
+    padding: 40px;
+}
+h3{
+	width: 30%;
+	padding: 20px;
+	background-color: rgba(0, 0, 0, 0.6);
+	color: white;
+	position: absolute;
+	left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+table {
+	margin: auto;
+	font-size:90%;
+	background-color:white;
+}
+th, td {
+    padding: 10px;
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+tr:nth-child(odd) {
+    background-color: #fff;
+}
+p {
+	width:50%;
+	padding-left:40px;
+	padding-right:40px;
+	padding-top:30px;
+	padding-bottom:30px;
+	background-color: rgba(0, 0, 0, 0.6);
+	color: white;
+	position: absolute;
+	left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+div.footer {
+    background-color: black;
+    color: rgb(130, 130, 130);
+    padding: 30px;
+}
